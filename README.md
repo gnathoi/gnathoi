@@ -41,10 +41,7 @@ stack: [Python, Rust, C++, ROS 2, PyTorch, Apache Iceberg]
 
 ---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnathoi&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true)](https://github.com/gnathoi)
+![Metrics](github-metrics.svg)
 
 ---
 
