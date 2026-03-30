@@ -13,15 +13,21 @@
 
 <table>
   <tr>
-    <td><strong>Perception &amp; Localization</strong></td>
+    <td><strong>Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><strong>ML &amp; Training</strong></td>
+    <td><strong>Robotics</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/ROS_1-22314E?style=flat-square&logo=ros&logoColor=white" />
+      <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Machine Learning</strong></td>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
@@ -31,7 +37,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Data Engineering</strong></td>
+    <td><strong>Data &amp; Cloud</strong></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Apache_Iceberg-4E9BCD?style=flat-square&logo=apacheiceberg&logoColor=white" />
@@ -39,7 +45,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Systems &amp; Infra</strong></td>
+    <td><strong>Infrastructure</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white" />
