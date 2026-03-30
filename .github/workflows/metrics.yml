@@ -23,10 +23,9 @@ jobs:
           committer_branch: main
           filename: github-metrics.svg
 
-          # Topics — starred topics as a word cloud
-          plugin_topics: yes
-          plugin_topics_mode: mastered
-          plugin_topics_limit: 24
+          # Recently starred repos
+          plugin_stars: yes
+          plugin_stars_limit: 4
 
           # Isometric 3D contribution calendar
           plugin_isocalendar: yes
