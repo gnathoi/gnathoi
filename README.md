@@ -17,9 +17,7 @@
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/ROS_1-22314E?style=flat-square&logo=ros&logoColor=white" />
-      <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" />
+      <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
     </td>
   </tr>
   <tr>
