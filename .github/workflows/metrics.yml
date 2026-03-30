@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           user: gnathoi
           template: classic
-          base: repositories
+          base: ""
           config_timezone: Europe/London
           config_padding: 8px
           output_action: commit

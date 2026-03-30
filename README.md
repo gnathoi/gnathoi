@@ -10,28 +10,6 @@
   <a href="https://YOUR_WEBSITE"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white" /></a>
 </p>
 
----
-
-```yaml
-name: gnathoi
-location: Jersey, Channel Islands
-work: LiDAR-inertial odometry · geospatial ML
-company: IslandView
-background:
-  - Particle physics ML (CERN / ATLAS)
-  - Robotics
-  - Geospatial systems
-fields_of_interest:
-  - SLAM
-  - LiDAR odometry
-  - Point cloud processing
-  - Geospatial ML
-  - Sensor fusion
-stack: [Python, Rust, C++, ROS 2, PyTorch, Apache Iceberg]
-```
-
----
-
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
