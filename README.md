@@ -32,9 +32,13 @@
     <td><strong>Machine Learning</strong></td>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pyro-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
       <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/GluonTS-FF6F00?style=flat-square&logo=amazon&logoColor=white" />
+      <img src="https://img.shields.io/badge/Darts-1F77B4?style=flat-square&logoColor=white" />
       <img src="https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white" />
     </td>
   </tr>
@@ -43,6 +47,7 @@
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Apache_Iceberg-4E9BCD?style=flat-square&logo=apacheiceberg&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache_Jena-E6522C?style=flat-square&logo=apache&logoColor=white" />
       <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
     </td>
   </tr>
@@ -51,6 +56,7 @@
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=white" />
       <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
     </td>
   </tr>
