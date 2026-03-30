@@ -1,26 +1,66 @@
-<h1 align="left">README</h1>
+# gnathoi
 
 <p align="left">
-  <em>Building performant LiDAR-inertial odometry pipelines and geospatial ML for</em> <a href="https://islandview.je"><strong>IslandView</strong></a>
+  Robotics &middot; Geospatial ML &middot; Particle Physics &middot; Building at <a href="https://islandview.je"><strong>IslandView</strong></a>
 </p>
 
 <p align="left">
-  <a href="https://cds.cern.ch/record/2872959"><em>Identification of highly boosted H→γγ decays with the ATLAS detector using deep neural networks</em></a> 
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://YOUR_WEBSITE"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white" /></a>
 </p>
 
 ---
 
+```yaml
+name: gnathoi
+location: Jersey, Channel Islands
+work: LiDAR-inertial odometry · geospatial ML
+company: IslandView
+background:
+  - Particle physics ML (CERN / ATLAS)
+  - Robotics
+  - Geospatial systems
+fields_of_interest:
+  - SLAM
+  - LiDAR odometry
+  - Point cloud processing
+  - Geospatial ML
+  - Sensor fusion
+stack: [Python, Rust, C++, ROS 2, PyTorch, Apache Iceberg]
+```
+
+---
+
+**:zap: Recent Activity:**
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnathoi&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true)](https://github.com/gnathoi)
+
+---
+
+**Stack**
+
 <table>
   <tr>
-    <td><strong>Languages</strong></td>
+    <td><strong>Perception &amp; Localization</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/ROS_1-22314E?style=flat-square&logo=ros&logoColor=white" />
+      <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><strong>ML / Data</strong></td>
+    <td><strong>ML &amp; Training</strong></td>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
@@ -30,27 +70,35 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Robotics</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/ROS_1-22314E?style=flat-square&logo=ros&logoColor=white" />
-      <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Infrastructure</strong></td>
+    <td><strong>Data Engineering</strong></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Apache_Iceberg-4E9BCD?style=flat-square&logo=apacheiceberg&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white" />
       <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><strong>OS</strong></td>
+    <td><strong>Systems &amp; Infra</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white" />
       <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
     </td>
   </tr>
 </table>
 
+---
+
+**Selected Work**
+
+**[Identification of highly boosted H→γγ decays with the ATLAS detector using deep neural networks](https://cds.cern.ch/record/2872959)**
+ATLAS Detector &middot; Deep Neural Networks &middot; CERN (2023)
+
+**[IslandView](https://islandview.je)**
+LiDAR-inertial odometry &middot; Geospatial ML &middot; Jersey
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
