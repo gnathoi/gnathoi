@@ -1,7 +1,7 @@
 # gnathoi
 
 <p align="left">
-  Robotics &middot; Geospatial ML &middot; Particle Physics &middot; Building at <a href="https://islandview.je"><strong>IslandView</strong></a>
+  Robotics &middot; Geospatial ML &middot; Data Science  &middot; Building @ <a href="https://islandview.je"><strong>IslandView</strong></a>
 </p>
 
 
