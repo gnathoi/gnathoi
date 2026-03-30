@@ -25,7 +25,7 @@ jobs:
 
           # Topics — starred topics as a word cloud
           plugin_topics: yes
-          plugin_topics_mode: icons
+          plugin_topics_mode: mastered
           plugin_topics_limit: 24
 
           # Isometric 3D contribution calendar
