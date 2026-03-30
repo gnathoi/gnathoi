@@ -4,12 +4,6 @@
   Robotics &middot; Geospatial ML &middot; Particle Physics &middot; Building at <a href="https://islandview.je"><strong>IslandView</strong></a>
 </p>
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR_WEBSITE"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white" /></a>
-</p>
-
 
 ![Metrics](github-metrics.svg)
 
