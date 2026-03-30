@@ -35,6 +35,8 @@ stack: [Python, Rust, C++, ROS 2, PyTorch, Apache Iceberg]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#70](https://github.com/koide3/glim_ros2/pull/70) in [koide3/glim_ros2](https://github.com/koide3/glim_ros2)
+2. 💪 Opened PR [#11](https://github.com/gnathoi/justyna-website/pull/11) in [gnathoi/justyna-website](https://github.com/gnathoi/justyna-website)
 <!--END_SECTION:activity-->
 
 ---
