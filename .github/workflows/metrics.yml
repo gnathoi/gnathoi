@@ -1,6 +1,11 @@
 name: Metrics
 
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - github-metrics.svg
   schedule:
     - cron: '0 2 * * *'   # daily at 2am UTC
   workflow_dispatch:
