@@ -72,6 +72,9 @@ ATLAS Detector &middot; Deep Neural Networks &middot; CERN (2023)
 **[IslandView](https://islandview.je)**
 LiDAR-inertial odometry &middot; Geospatial ML &middot; Jersey
 
+**[Juniper](https://github.com/gnathoi/juniper)**
+AlmaLinux bootc images for Raspberry Pi 4/5
+
 ---
 
 <p align="center">
