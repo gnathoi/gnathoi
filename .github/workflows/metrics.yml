@@ -1,6 +1,11 @@
 name: Metrics
 
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - github-metrics.svg
   schedule:
     - cron: '0 2 * * *'   # daily at 2am UTC
   workflow_dispatch:
@@ -20,14 +25,9 @@ jobs:
           config_timezone: Europe/London
           config_padding: 8px
           output_action: commit
-          committer_branch: main
+          committer_branch: ${{ github.ref_name }}
           filename: github-metrics.svg
 
           # Recently starred repos
           plugin_stars: yes
           plugin_stars_limit: 4
-
-          # Isometric 3D contribution calendar
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-
